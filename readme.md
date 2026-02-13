@@ -24,7 +24,6 @@ This prototype focuses on:
 Your project must use this structure:
 
 ```
-
 project-folder
 │
 ├── index.html
@@ -32,7 +31,7 @@ project-folder
 └── static
 ├── style.css
 └── app.js
-
+```
 
 - `index.html` contains all HTML and page sections
 - `static/style.css` contains all styling
@@ -197,3 +196,4 @@ Once Sections 3–6 are complete:
 - Testing and iteration evidence will be added
 
 Follow instructions carefully and commit your work regularly.
+
